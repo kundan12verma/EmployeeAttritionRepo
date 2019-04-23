@@ -1,2 +1,2 @@
 # EmployeeAttritionRepo
-Github Profile
+![image.png][images/HRTalent.png]
