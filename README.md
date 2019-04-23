@@ -1,4 +1,2 @@
 # EmployeeAttritionRepo
-## EmployeeAttritionRepo
-### EmployeeAttritionRepo
-#### EmployeeAttritionRepo
+![image.png](images/HRTalent.png)
